@@ -1,0 +1,15 @@
+.toolbar-btn-action {
+    text-align: left;
+}
+
+.btn-create{
+    text-align: center;
+}
+.btn-create button{
+    text-align: center;
+    width: 13%;
+    height: 66px;
+    border-radius: 20px;
+    font-size: 23px;
+    font-weight: 400;
+}
